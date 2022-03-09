@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "I am a Python/Django Web Developer working with the latest technologies to help business owners build their dream project in minimum possible time and fulfilling their requirements. I specialize in various tasks such as coding, designing, deploying, debugging development projects. I love Python and Django Framework. I can make so many things simply by leveraging code that other people have made for me to use. I am passionate about solving program problems so that they can rest at night. ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
