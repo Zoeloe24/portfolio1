@@ -49,7 +49,7 @@ const skillsBar = [
   {
     name: "Django",
     // svg: '',
-    faClass: "fab fa-python",
+    faClass: "fab fa-Django",
   },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
