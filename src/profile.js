@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name:"Hi, I'm Alonzo",
+  name:"Hi, Alonzo",
 };
 const background = {
   // Options: Snow or Particle
