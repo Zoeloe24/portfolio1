@@ -5,7 +5,7 @@ const animation = {
   // animation playing duration
   duration: 750,
   // if true, animation plays only once when element comes on screen
-  once: true,
+  once: false,
 };
 // Change your display name on tha landing display
 const header = {
