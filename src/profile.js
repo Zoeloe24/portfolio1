@@ -69,7 +69,7 @@ const projects = [
     id: "project2",
     name: "Project 2",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/Zoeloe24/Django-Doctor-Website",
+    url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project3
